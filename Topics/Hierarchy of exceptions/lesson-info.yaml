@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - BadRequestException
+  - The base class
+  - Checked exceptions
+  - Unchecked exceptions
+  - The name of the base class
+  - Catching specific and general exceptions
+  - Overview the hierarchy
